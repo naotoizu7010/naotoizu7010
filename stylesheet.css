@@ -1,3 +1,15 @@
 .title {
     color: blue;
 }
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(52, 150, 169, 0.8);
+    /* positionプロパティをfixedに、topを0に指定してください */
+    position:fixed;
+    top:0;
+    
+    /* z-indexを10に指定してください */
+    z-index:10;
+}
