@@ -2,14 +2,30 @@
     color: blue;
 }
 
-header {
-    height: 65px;
+.header {
+    font-weight: 200;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 50px 6.94444vw;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
-    background-color: rgba(52, 150, 169, 0.8);
-    /* positionプロパティをfixedに、topを0に指定してください */
-    position:fixed;
-    top:0;
-    
-    /* z-indexを10に指定してください */
-    z-index:10;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 40px 8vw;
+    z-index: 3;
+    font-family: NotoSansJP-Medium;
+    font-weight: 300;
 }
