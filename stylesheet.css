@@ -1,42 +1,29 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #fff; /* 白をベースの背景色に設定 */
-}
 
-header {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
-
-.container {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: white;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-}
-
-.content {
-  padding: 20px;
-}
-
-footer {
-  text-align: center;
-  padding: 10px;
-  background-color: #333;
-  color: white;
-}
-
-/* オレンジの差し色 */
-.container h2, .footer p {
-  color: #FFA500; /* オレンジ色に設定 */
-}
-
-/* 水色の差し色 */
-.container p {
-  color: #00BFFF; /* 水色に設定 */
-}
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  .content {
+    padding: 20px;
+  }
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
