@@ -34,6 +34,16 @@ a img:hover {
 
 /*ヘッダー
 -------------------------------------*/
+.header__main{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.07);
+    z-index: 100;
+}
+
 .head {
 	display: flex;
     flex-direction: row;
@@ -45,11 +55,7 @@ a img:hover {
 	font-weight: 700;
 	letter-spacing: 3px;
 }
-.snsbox {
-	margin-left: auto;
-	font-size: 3.0rem;
-	padding: 1rem 0 0 0;
-}
+
 nav ul {
 	display: flex;
     flex-direction: row;
