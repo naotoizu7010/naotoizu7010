@@ -32,6 +32,11 @@ a img:hover {
 	text-align: center;
 }
 
+ul, ol {
+    list-style: none;
+}
+
+
 /*ヘッダー
 -------------------------------------*/
 .header__main{
@@ -48,6 +53,10 @@ a img:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+* {
+    box-sizing: border-box;
 }
 
 .inner {
