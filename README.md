@@ -20,6 +20,9 @@
 <a href="https://zenn.dev/naotoizu_7010" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/naotoizu_7010-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
+- [Facebook](https://www.facebook.com/naotoizu7010/)
+- [note](https://note.com/naotoizu_7010)
+- [Wantedly](https://www.wantedly.com/id/naotoizu_7010)
 ---
 <!--
 **naotoizu7010/naotoizu7010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
