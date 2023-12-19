@@ -5,9 +5,12 @@
 |🫡|🤩|
 |---|---|
 |氏名|大泉直人 (Naoto Oizumi)|
-|生年月日|2004/11/14|
 |居住地|茨城県つくば市|
-|大学|[筑波大学理工学群社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php)|
+|大学|[筑波大学理工学群社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php)\n経営工学主専攻希望|
+
+---
+
+フリーランスのエンジニアと、筑波大生で行うワークショップを開いています。
 
 ---
 
