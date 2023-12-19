@@ -2,17 +2,16 @@
 
 ## 基本情報
 
-|key|value|
+|🫡|🤩|
 |---|---|
 |氏名|大泉直人 (Naoto Oizumi)|
 |生年月日|2004/11/14|
 |居住地|茨城県つくば市|
-|高校|茨城県立水戸第一高等学校|
-|大学|筑波大学理工学群社会工学類|
+|大学|[筑波大学理工学群社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php)|
 
 ---
 
-## 各種アカウント
+## アカウント
 <p>
 <a href="https://github.com/naotoizu7010" target="_blank"><img alt="Github" src="https://img.shields.io/badge/naotoizu7010-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/naotoizu_7010" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@naotoizu_7010-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
