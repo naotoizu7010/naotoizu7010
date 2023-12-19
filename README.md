@@ -15,7 +15,7 @@
 <p>
 <a href="https://github.com/naotoizu7010" target="_blank"><img alt="Github" src="https://img.shields.io/badge/naotoizu7010-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/naotoizu_7010" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@naotoizu_7010-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://instagram.com/naotoizu_7010" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/naotoizu_7010-%E4405F.svg?&style=flat-square&logo=instagram&E4405F" /></a>
+<a href="https://www.instagram.com/naotoizu_7010/?hl=ja"><img alt="Static Badge" src="https://img.shields.io/badge/naotoizu_7010-%23E4405F?style=flat-square&logo=Instagram&logoColor=fff&link=https%3A%2F%2Fwww.instagram.com%2Fnaotoizu_7010%2F%3Fhl%3Dja"></a>
 <a href="https://qiita.com/naotoizu_7010" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/naotoizu_7010-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/naotoizu_7010" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/naotoizu_7010-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
