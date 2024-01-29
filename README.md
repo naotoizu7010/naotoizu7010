@@ -1,11 +1,10 @@
-# Hi there 👋
-
 ## info
 
 |🫡|🤩|
 |---|---|
 |氏名|大泉直人 (Naoto Oizumi)|
 |居住地|茨城県つくば市|
+|出身|茨城県日立市|
 |大学|[筑波大学理工学群社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php) <br> 経営工学主専攻予定|
 
 ---
@@ -32,7 +31,7 @@
 </a>
 </p>
 
-These icons are made by [Shield.io](https://shields.io/badges)
+icons are made by [Shield.io](https://shields.io/badges)
 
 ---
 <!--
